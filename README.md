@@ -1,4 +1,5 @@
-Welcome to Rohith Store – where fashion meets comfort! Discover our curated collection of stylish apparel designed to bring out the best in you. Whether you're dressing up for a special occasion or keeping it casual, we offer a diverse range of high-quality clothing for every style and season. Our designs reflect the latest trends, ensuring you stand out with confidence. With easy navigation, fast delivery, and exceptional customer service, shopping with us is a seamless experience. Redefine your wardrobe with Rohith Store—because fashion should be effortless, yet unforgettable.
+Welcome to Rohith Store – where fashion meets comfort! Discover our curated collection of stylish apparel designed to bring out the best in you. Whether you're dressing up for a special occasion or keeping it casual, we offer a diverse range of high-quality clothing for every style and season. Our designs reflect t!
+he latest trends, ensuring you stand out with confidence. With easy navigation, fast delivery, and exceptional customer service, shopping with us is a seamless experience. Redefine your wardrobe with Rohith Store—because fashion should be effortless, yet unforgettable.
 
 Project Overview:
 This project is an e-commerce web application developed using React and Redux Toolkit, offering users a seamless shopping experience with advanced features like product filtering and real-time updates.
@@ -19,3 +20,6 @@ Usage:
 Homepage: Browse available products and use the slider to filter items by price.
 Shopping Cart: Add products to your cart using the "Add to Cart" button and manage them by clicking on the cart icon.
 Order Process: Create an account and log in to manage the checkout process.
+![Screenshot (488)](https://github.com/user-attachments/assets/75c859f1-335a-4ee0-a434-23bcecb3adc6)
+![Screenshot (489)](https://github.com/user-attachments/![Screenshot (490)](https://github.com/user-attachments/assets/eb777a77-0d93-482b-a956-766938bf9e9d)
+assets/c500892f-e80e-4cd8-9aaf-b616e81fa3e1)
