@@ -21,5 +21,5 @@ Homepage: Browse available products and use the slider to filter items by price.
 Shopping Cart: Add products to your cart using the "Add to Cart" button and manage them by clicking on the cart icon.
 Order Process: Create an account and log in to manage the checkout process.
 ![Screenshot (488)](https://github.com/user-attachments/assets/75c859f1-335a-4ee0-a434-23bcecb3adc6)
-![Screenshot (489)](https://github.com/user-attachments/![Screenshot (490)](https://github.com/user-attachments/assets/eb777a77-0d93-482b-a956-766938bf9e9d)
-assets/c500892f-e80e-4cd8-9aaf-b616e81fa3e1)
+
+![Screenshot (489)](https://github.com/user-attachments/assets/ce1689b3-d586-4160-a271-6504f4baecfb)
